@@ -1,6 +1,7 @@
 # dev
 
-## install golang
+## install golang 
+### go1.24.0.linux-amd64.tar.gz
 ```
 
 https://golang.google.cn/dl/
@@ -18,7 +19,8 @@ export GOPROXY=https://mirrors.aliyun.com/goproxy/,direct
 
 ```
 
-## install docker
+## install docker 
+### docker-ce/noble,now 5:28.0.1-1~ubuntu.24.04~noble amd64 [installed]
 ```
 https://www.cnblogs.com/ylz8401/p/18251415
 
@@ -75,7 +77,11 @@ sudo usermod -aG docker ${USER}
 
 ```
 
-## install make & ntp
+## install make & ntp 
+### build-essential/noble,now 12.10ubuntu1 amd64 [installed]
+#### GNU Make 4.3
+### ntp/noble,now 1:4.2.8p15+dfsg-2~1.2.2+dfsg1-4build2 all [installed]
+
 ```
 sudo apt install -y build-essential git curl wget net-tools
 apt install ntp
