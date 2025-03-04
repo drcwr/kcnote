@@ -1,4 +1,5 @@
-# dev
+# dev 
+## ubuntu 24.04
 
 ## install golang 
 ### go1.24.0.linux-amd64.tar.gz
@@ -20,7 +21,7 @@ export GOPROXY=https://mirrors.aliyun.com/goproxy/,direct
 ```
 
 ## install docker 
-### docker-ce/noble,now 5:28.0.1-1~ubuntu.24.04~noble amd64 [installed]
+### docker-ce/noble,now 5:28.0.1-1\~ubuntu.24.04~noble amd64 [installed]
 ```
 https://www.cnblogs.com/ylz8401/p/18251415
 
